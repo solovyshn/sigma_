@@ -33,27 +33,35 @@ namespace task_5
         }
         public void Change()
         {
-            for (int i = 0; i < forChange.Length; i++)
+            
+            int n = 0;
+            for (int i=0; i<forChange.Length; i++)
             {
-                string[] s = forChange[i].Split(' ');
-                for (int j = 0; j < s.Length; j++)
+                char[] sAsChars = forChange[i].ToCharArray();
+                for(int j=0; j<sAsChars.Length; j++)
                 {
-                    char[] sAsChars = s[j].ToCharArray();
-                    if (sAsChars[0] == '#')
-                    {
-                        sAsChars[0] = '<';
-                    }
-                    if (sAsChars[sAsChars.Length - 1] == '#')
-                    {
-                        sAsChars[sAsChars.Length - 1] = '>';
-                    }
-                    s[j] = new string(sAsChars);
+                    if(sAsChars[j]=='#')
+                        n++;
                 }
-                forChange[i] = "";
-                for (int j = 0; j < s.Length; j++)
+            }
+            int cpy = n;
+            for(int i=0; i<forChange.Length; i++) {
+                char[] sAsChars = forChange[i].ToCharArray();
+                for (int j = 0; j < sAsChars.Length; j++)
                 {
-                    forChange[i] += s[j] + ' ';
+                    if (sAsChars[j] == '#') {
+                        if (cpy > n / 2)
+                        {
+                            sAsChars[j] = '<';
+                            cpy--;
+                        }
+                        else if (cpy != 0)
+                        {
+                            sAsChars[j] = '>';
+                        }
+                    } 
                 }
+                forChange[i] = new string(sAsChars);
             }
         }
         public void Print()
