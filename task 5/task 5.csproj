@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="ChangeString.cs" />
     <Compile Include="FilePath.cs" />
+    <Compile Include="Matrix01.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
