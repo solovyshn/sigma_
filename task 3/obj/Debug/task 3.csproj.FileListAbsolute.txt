@@ -1,0 +1,7 @@
+C:\Alaska\studying\university\3 Sem\sigma\sigma_tasks\task 3\obj\Debug\task 3.csprojAssemblyReference.cache
+C:\Alaska\studying\university\3 Sem\sigma\sigma_tasks\task 3\obj\Debug\task 3.csproj.CoreCompileInputs.cache
+C:\Alaska\studying\university\3 Sem\sigma\sigma_tasks\task 3\bin\Debug\task 3.exe.config
+C:\Alaska\studying\university\3 Sem\sigma\sigma_tasks\task 3\bin\Debug\task 3.exe
+C:\Alaska\studying\university\3 Sem\sigma\sigma_tasks\task 3\bin\Debug\task 3.pdb
+C:\Alaska\studying\university\3 Sem\sigma\sigma_tasks\task 3\obj\Debug\task 3.exe
+C:\Alaska\studying\university\3 Sem\sigma\sigma_tasks\task 3\obj\Debug\task 3.pdb
