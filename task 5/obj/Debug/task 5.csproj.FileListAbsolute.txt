@@ -1,0 +1,7 @@
+C:\Alaska\studying\university\3 Sem\sigma\task 5\bin\Debug\task 5.exe.config
+C:\Alaska\studying\university\3 Sem\sigma\task 5\bin\Debug\task 5.exe
+C:\Alaska\studying\university\3 Sem\sigma\task 5\bin\Debug\task 5.pdb
+C:\Alaska\studying\university\3 Sem\sigma\task 5\obj\Debug\task 5.csprojAssemblyReference.cache
+C:\Alaska\studying\university\3 Sem\sigma\task 5\obj\Debug\task 5.csproj.CoreCompileInputs.cache
+C:\Alaska\studying\university\3 Sem\sigma\task 5\obj\Debug\task 5.exe
+C:\Alaska\studying\university\3 Sem\sigma\task 5\obj\Debug\task 5.pdb
