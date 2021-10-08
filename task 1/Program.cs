@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace task_4
+namespace task_1
 {
     class Program
     {
@@ -12,10 +12,10 @@ namespace task_4
         {
             Product Pr1 = new Product("Chocolate", 12.99, 400);
             Product Pr2 = new Product("Rice", 30.99, 800);
-
+            
             Buy Bu1 = new Buy(Pr1, 4);
             Buy Bu2 = new Buy(Pr2, 7);
-
+            
             Check.getInfoProduct(Pr1);
             Check.getInfoProduct(Pr2);
 
