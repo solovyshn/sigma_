@@ -9,7 +9,8 @@ namespace task_5
     
     class Program
     {
-        static void Main(string[] args) {Console.WriteLine("How much strings?");
+        static void Main(string[] args) {
+            Console.WriteLine("How much strings?");
             int n = Convert.ToInt32(Console.ReadLine());
             string[] strings = new string[n];
             for (int i = 0; i < n; i++)
