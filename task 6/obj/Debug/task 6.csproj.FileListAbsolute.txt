@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Alaska\studying\university\3 Sem\sigma\sigma_tasks\task 6\bin\Debug\task 6.exe.config
 C:\Alaska\studying\university\3 Sem\sigma\sigma_tasks\task 6\bin\Debug\task 6.exe
 C:\Alaska\studying\university\3 Sem\sigma\sigma_tasks\task 6\bin\Debug\task 6.pdb
@@ -5,3 +6,12 @@ C:\Alaska\studying\university\3 Sem\sigma\sigma_tasks\task 6\obj\Debug\task 6.cs
 C:\Alaska\studying\university\3 Sem\sigma\sigma_tasks\task 6\obj\Debug\task 6.csproj.CoreCompileInputs.cache
 C:\Alaska\studying\university\3 Sem\sigma\sigma_tasks\task 6\obj\Debug\task 6.exe
 C:\Alaska\studying\university\3 Sem\sigma\sigma_tasks\task 6\obj\Debug\task 6.pdb
+=======
+C:\Alaska\studying\university\3 Sem\sigma\sigma_tasks\task 6\bin\Debug\task 6.exe.config
+C:\Alaska\studying\university\3 Sem\sigma\sigma_tasks\task 6\bin\Debug\task 6.exe
+C:\Alaska\studying\university\3 Sem\sigma\sigma_tasks\task 6\bin\Debug\task 6.pdb
+C:\Alaska\studying\university\3 Sem\sigma\sigma_tasks\task 6\obj\Debug\task 6.csprojAssemblyReference.cache
+C:\Alaska\studying\university\3 Sem\sigma\sigma_tasks\task 6\obj\Debug\task 6.csproj.CoreCompileInputs.cache
+C:\Alaska\studying\university\3 Sem\sigma\sigma_tasks\task 6\obj\Debug\task 6.exe
+C:\Alaska\studying\university\3 Sem\sigma\sigma_tasks\task 6\obj\Debug\task 6.pdb
+>>>>>>> 170b157a028889369263d0dff7a386e8b43528cd
