@@ -1,0 +1,8 @@
+﻿dairy Milk 30 1 7 30.09.2020
+else Apples 20 0,5 20 7.10.2021
+dairy Yogurt 17 0,4 10 12.10.2021
+meat Veal 77 0,7 15 24.10.2021 high veal
+else Oranges 35 0,6 30 12.12.2021
+meat Chicken 60 0,8 14 13.10.2021 first chicken
+dairy Cheese 53 0,4 50 20.10.2021
+else Juice 27 0,9 27 20.09.2021

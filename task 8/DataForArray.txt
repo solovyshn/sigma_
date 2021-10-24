@@ -1,0 +1,3 @@
+﻿dairy Milk 30 1 7 30.09.2020
+else Apple 20 0,5 20 7.10.2021
+meat Veal 77 0,7 15 24.10.2021 high veal
