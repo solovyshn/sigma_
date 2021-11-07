@@ -1,0 +1,47 @@
+07.11.2021 15:30:32
+
+Deleted overdue products:
+
+Type of product: dairy	Name:  Milk	Price:   30	Weight:    1	Expiration:   7		Date:30.09.2020
+
+
+Wrong input in line:
+else Oranges 3gh5 0,6 30 12.12.2021
+Wrong price
+
+
+Wrong input in line:
+else Oranges 3gh5 0,6 30 12.12.2021
+Wrong price
+
+07.11.2021 15:33:53
+Type of product: other	Name:Apples	Price:   20	Weight:  0,5	Expiration:  20		Date:07.10.2021
+
+07.11.2021 15:33:53
+
+Deleted overdue products:
+
+Type of product: dairy	Name:  Milk	Price:   30	Weight:    1	Expiration:   7		Date:30.09.2020
+
+Type of product:  meat	Name:Chicken	Price:   60	Weight:  0,8	Expiration:  14		Date:13.10.2021
+Sort of meat:  second	Type of meat: chicken
+
+Type of product: other	Name: Juice	Price:   27	Weight:  0,9	Expiration:  27		Date:20.09.2021
+
+
+Wrong input in line:
+else Oranges 3gh5 0,6 30 12.12.2021
+Wrong price
+
+07.11.2021 15:34:16
+Type of product: other	Name:Apples	Price:   20	Weight:  0,5	Expiration:  20		Date:07.10.2021
+
+07.11.2021 15:34:16
+Deleted overdue products:
+
+Type of product: dairy	Name:  Milk	Price:   30	Weight:    1	Expiration:   7		Date:30.09.2020
+
+Type of product:  meat	Name:Chicken	Price:   60	Weight:  0,8	Expiration:  14		Date:13.10.2021
+Sort of meat:  second	Type of meat: chicken
+
+Type of product: other	Name: Juice	Price:   27	Weight:  0,9	Expiration:  27		Date:20.09.2021
